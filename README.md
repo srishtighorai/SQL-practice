@@ -9,6 +9,9 @@ This repository contains my SQL practice while learning Data Analytics.
 - Aggregate Functions
 - GROUP BY and HAVING
 - Joins
+- SQL Functions
+- Subqueries
+- Common Table Expressions (CTEs)
 
 ## Tools Used
 
